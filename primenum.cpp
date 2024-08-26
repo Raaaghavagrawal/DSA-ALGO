@@ -8,7 +8,7 @@ int main()
     bool flag = 0;
     for (int i = 2; i < n; i++)
     {
-        if (n % 2 == 0)
+        if (n % i == 0)
         {
             cout << "Not-prime" << endl;
             flag = 1;
