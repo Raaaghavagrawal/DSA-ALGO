@@ -1,4 +1,0 @@
-Hello my name is RAGHAV AGRAWAL and i will be handling this account and responsible for all files uploading in it.
-It will be mainly of C++ codes, MYSQL queries, HTML,CSS and JS related projects and DSA Algorithms.
-Please support my GITHUB repository.
-You will get a variety of codes from basic to advance of C++ language.
